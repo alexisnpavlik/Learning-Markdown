@@ -86,5 +86,6 @@ dsadasdsadsadsa | Content in the second column
 solo para github (visible en github)
 
 lista de tareas  
-[x] tarea 1
-[] tarea 2 (no compretada)
+* [x] tarea 1
+* [ ] tarea 2 (no compretada)
+    * [x] dsda
