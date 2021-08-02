@@ -94,8 +94,6 @@ Mencion a algun usuario
 @alexisnpavlik
 
 Colocacion de emojis 
-<!-- https://gist.github.com/rxaviers/7360908 -->
-
 :worried:
 
 
