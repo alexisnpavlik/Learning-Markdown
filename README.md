@@ -90,7 +90,7 @@ Lista de tareas
 * [ ] tarea 2 (no compretada)
     * [x] Subtarea
 
-Mencio a algun usuario  
+Mencion a algun usuario  
 @alexisnpavlik
 
 Colocacion de emojis 
