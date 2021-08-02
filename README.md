@@ -1,54 +1,53 @@
-Tamaño de fuentes
-
+Podemos generar textos de distintos tamaños como en html
 # Esto en un H1
 ## Esto es un H2
 ### Esto es un H3
 #### Esto es un H4
 ##### Esto es un H5
-###### Esto es un H6
+###### Esto es un H6   
 
-tipos de letras  
+Decoradores en el texto como:
+ 
 *italic*  o _italic_  
-**negrita** o __negrita__
-
+**negrita** o __negrita__  
+_**Combinacion de ambos**_  
 ~~tachado~~
 
-_**Combinacion de ambos**_
-
-lista desordenada 
+Listas desordenadas 
 
 * item 1
 * item 2
     * item 2.1
 
-Lista ordenada
+Listas ordenadas
 
 1. item 1
 1. item 2
     1. item 2.1
 1. item 3
 
-imagenes del disco
+Insertar imagenes locales
 
-![github logo](./Github.jpg "wewqeqw")
+![github logo](./Github.jpg "comentario")
 
-imagenes de la web
+Insertar imagenes desde la web
 
-Format: ![github](https://www.muylinux.com/wp-content/uploads/2017/06/github.png)
+![github](https://www.muylinux.com/wp-content/uploads/2017/06/github.png)
 
-links
+Referenciar links
 
-http://github.com 
-
+http://github.com o 
 [GitHub](http://github.com)
 
-Citas
+Creamos citas
 
-> We're living the future so.
+> "Me gustan las hamburguesas" - Alexis Medina
+
+Creamos comentarios
 
 <!--esto es un comentario-->
 
-crear divisor
+Generar un separador
 ___ 
 
 
@@ -56,16 +55,16 @@ Escribir codigo
 
 `print("hello word")`
 
-``` sdsfsdfds
-dsadas
-asdasdsa
-dasdsad
+Si posee varias lineas
+
+``` 
+def saludar():
+    print("Holla")
 ```
 
-codigo de un lenguaje
+Si queremos que se marque los colores
 
 ``` python
-
 Elijo la numero:
     while True:
         if eleccion=="1":
@@ -76,16 +75,27 @@ Elijo la numero:
             gancia=((usdt/precio_compra)*precio_venta)-usdt
 ```
 
-tablas
+Tambien podemos generar tablas
 
-First Header | Second Header
+ Comida |  Precio
 ------------ | -------------
-dasdasd | Content from cell 2
-dsadasdsadsadsa | Content in the second column
+Hamburguesas | $300
+Milanesas | $250
 
-solo para github (visible en github)
+Esta seccion solo sera visible en Github
 
-lista de tareas  
+Lista de tareas  
+
 * [x] tarea 1
 * [ ] tarea 2 (no compretada)
-    * [x] dsda
+    * [x] Subtarea
+
+Mencio a algun usuario  
+@alexisnpavlik
+
+Colocacion de emojis 
+<!-- https://gist.github.com/rxaviers/7360908 -->
+
+:worried:
+
+
